@@ -1,0 +1,42 @@
+SCC = This is a Source Code Control file.
+
+[SmartMES.sln]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES
+
+[P5018.csproj]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES/P5018
+
+[SAMMI.AP.csproj]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES/SAMMI.AP
+
+[SAMMI.BM.csproj]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES/SAMMI.BM
+
+[SAMMI.CM.csproj]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES/SAMMI.CM
+
+[SAMMI.MD.csproj]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES/SAMMI.MD
+
+[SAMMI.MM.csproj]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES/SAMMI.MM
+
+[SAMMI.MT.csproj]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES/SAMMI.MT
+
+[SAMMI.PM.csproj]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES/SAMMI.PM
+
+[SAMMI.PopUp.csproj]
+SCC_Aux_Path = 14.43.254.3:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES
+

@@ -1,0 +1,452 @@
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2022.csproj.AssemblyReference.cache
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2022.Properties.Resources.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0000.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0100.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0200.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0300.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2022.csproj.GenerateResource.cache
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2022.exe.licenses
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2022.csproj.CoreCompileInputs.cache
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.Properties.Resources.resources
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.GenerateResource.Cache
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe.licenses
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\app.config
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe.config
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.pdb
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Excel.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0000.resources
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0100.resources
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0200.resources
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0300.resources
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.pdb
+D:\MES_EDU(SH)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csprojResolveAssemblyReference.cache
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\app.config
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe.config
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.pdb
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Excel.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csprojResolveAssemblyReference.cache
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.Properties.Resources.resources
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0000.resources
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0100.resources
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0200.resources
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0300.resources
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.GenerateResource.Cache
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe.licenses
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe
+D:\2022_EDU_SIHUNG\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.pdb
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\app.config
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe.config
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.pdb
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.AssemblyReference.cache
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.Properties.Resources.resources
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0000.resources
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0100.resources
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0200.resources
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0300.resources
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.GenerateResource.cache
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe.licenses
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CoreCompileInputs.cache
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CopyComplete
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe
+D:\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.pdb
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_Form.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_Form.pdb
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\DC_POPUP.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.Reporting.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.dll
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\DC_POPUP.pdb
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.Reporting.pdb
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.Reporting.xml
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+D:\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\app.config
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe.config
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.pdb
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\DC_POPUP.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_Form.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.Reporting.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\DC_POPUP.pdb
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_Form.pdb
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.Reporting.pdb
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.Reporting.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.AssemblyReference.cache
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.Properties.Resources.resources
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0000.resources
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0100.resources
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0200.resources
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0300.resources
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.GenerateResource.cache
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe.licenses
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CoreCompileInputs.cache
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CopyComplete
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe
+D:\CSharpStudy\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.pdb
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\app.config
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe.config
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.pdb
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\DC_POPUP.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_Form.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.Reporting.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\DC_POPUP.pdb
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\KFQS_Form.pdb
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.Reporting.pdb
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.Reporting.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.AssemblyReference.cache
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.Properties.Resources.resources
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0000.resources
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0100.resources
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0200.resources
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0300.resources
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.GenerateResource.cache
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe.licenses
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CoreCompileInputs.cache
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CopyComplete
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe
+C:\Users\fffig\Documents\카카오톡 받은 파일\MES (1)\MES\MES_EDU_SH\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.pdb
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\app.config
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe.config
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.pdb
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\DC_POPUP.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_Form.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.Reporting.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\DC_POPUP.pdb
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_Form.pdb
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.Reporting.pdb
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.Reporting.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.AssemblyReference.cache
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.Properties.Resources.resources
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0000.resources
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0100.resources
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0200.resources
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0300.resources
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.GenerateResource.cache
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe.licenses
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CoreCompileInputs.cache
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CopyComplete
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe
+C:\MES DEVELOPER COURSE\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.pdb
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\app.config
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe.config
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.exe
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_MES_2022.pdb
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\DC_POPUP.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Shared.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_Form.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.Reporting.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\DC_POPUP.pdb
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\KFQS_Form.pdb
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.Reporting.pdb
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.Reporting.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.pdb
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Telerik.ReportViewer.WinForms.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.AssemblyReference.cache
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.Properties.Resources.resources
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0000.resources
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0100.resources
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0200.resources
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.ZZ0300.resources
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.GenerateResource.cache
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe.licenses
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CoreCompileInputs.cache
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.csproj.CopyComplete
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.exe
+C:\mes\MES_EDU_SH(강사님최종+4조프로젝트)\KFQS_MES_2022\obj\x86\Debug\KFQS_MES_2022.pdb

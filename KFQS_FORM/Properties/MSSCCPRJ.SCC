@@ -1,0 +1,10 @@
+SCC = This is a Source Code Control file.
+
+[SmartMES.sln]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES
+
+[P5018.csproj]
+SCC_Aux_Path = 210.182.240.138:8080:sammi1
+SCC_Project_Name = $/대신정공/SmartMES/P5018
+

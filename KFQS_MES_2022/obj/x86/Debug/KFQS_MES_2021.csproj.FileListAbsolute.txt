@@ -1,0 +1,431 @@
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\app.config
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\KFQS_MES_2021.exe.config
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\KFQS_MES_2021.exe
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Telerik.Reporting.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Telerik.ReportViewer.WinForms.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Documents.Excel.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.csproj.AssemblyReference.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.Properties.Resources.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.csproj.GenerateResource.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.exe.licenses
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.csproj.CoreCompileInputs.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.csproj.CopyComplete
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.exe
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.ZZ0000.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.ZZ0100.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.ZZ0200.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\DC_MES\obj\x86\Debug\KFQS_MES_2021.ZZ0300.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\app.config
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe.config
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Telerik.Reporting.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Telerik.ReportViewer.WinForms.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.AssemblyReference.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.Properties.Resources.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0000.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0100.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0200.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0300.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.GenerateResource.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe.licenses
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CoreCompileInputs.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CopyComplete
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\DC_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.AssemblyReference.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.Properties.Resources.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0000.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0100.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0200.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0300.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.GenerateResource.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe.licenses
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CoreCompileInputs.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.Properties.Resources.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0000.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0100.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0200.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0300.resources
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.GenerateResource.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe.licenses
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CoreCompileInputs.cache
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\app.config
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe.config
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.Unity.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CopyComplete
+D:\MyDoc\SourceSafe\23.EDU\2021_KFQ\1.MES_SOURCE\KFQS_MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.AssemblyReference.cache
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\app.config
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe.config
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.Unity.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.AssemblyReference.cache
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.Properties.Resources.resources
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0000.resources
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0100.resources
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0200.resources
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0300.resources
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.GenerateResource.cache
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe.licenses
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CoreCompileInputs.cache
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CopyComplete
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe
+D:\MyDoc\SourceSafe\23.EDU\0.BASE_SOURCE\MES\MES_EDU\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\app.config
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe.config
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.pdb
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.Unity.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.AssemblyReference.cache
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.Properties.Resources.resources
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0000.resources
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0100.resources
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0200.resources
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0300.resources
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.GenerateResource.cache
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe.licenses
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CoreCompileInputs.cache
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CopyComplete
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe
+D:\MyDoc\10.SourceSafe\23.EDU\0. BASE_SOURCE\MES\한국 품질 재단 배포용 소스\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.pdb
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe.config
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.pdb
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.AssemblyReference.cache
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0000.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0100.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0200.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.ZZ0300.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.GenerateResource.cache
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\app.config
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.exe
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\KFQS_MES_2021.pdb
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.Unity.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.dll
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Shared.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.Misc.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.SupportDialogs.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.FormulaBuilder.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinEditors.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinListView.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabControl.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinToolbars.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTree.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Excel.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinChart.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics3.Win.UltraWinGrid.ExcelExport.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinGrid.DocumentExport.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinPrintPreviewDialog.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics3.Documents.Excel.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinStatusBar.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinTabbedMdi.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDock.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinSchedule.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinCalcManager.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Win.UltraWinDataSource.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\bin\Debug\Infragistics2.Documents.Reports.v11.1.xml
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.Properties.Resources.resources
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.exe.licenses
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CoreCompileInputs.cache
+D:\MES_EDU(SH)\KFQS_MES_2021\obj\x86\Debug\KFQS_MES_2021.csproj.CopyComplete

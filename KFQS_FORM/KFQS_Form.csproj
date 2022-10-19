@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{79B03EED-AB1A-4484-8700-210E12F04D2D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>KFQS_Form</RootNamespace>
+    <AssemblyName>KFQS_Form</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>
+    </SccProjectName>
+    <SccLocalPath>
+    </SccLocalPath>
+    <SccAuxPath>
+    </SccAuxPath>
+    <SccProvider>
+    </SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="AP_OrderPerProduct[작업지시 별 생산 실적및 달성율].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AP_OrderPerProduct[작업지시 별 생산 실적및 달성율].designer.cs">
+      <DependentUpon>AP_OrderPerProduct[작업지시 별 생산 실적및 달성율].cs</DependentUpon>
+    </Compile>
+    <Compile Include="MM_POmake[자재 발주 및 입고].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MM_POmake[자재 발주 및 입고].Designer.cs">
+      <DependentUpon>MM_POmake[자재 발주 및 입고].cs</DependentUpon>
+    </Compile>
+    <Compile Include="AP_ProductPlan[생산계획 편성 및 작업지시 확정].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AP_ProductPlan[생산계획 편성 및 작업지시 확정].Designer.cs">
+      <DependentUpon>AP_ProductPlan[생산계획 편성 및 작업지시 확정].cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM_StopListMaster[비가동 항목 관리].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM_StopListMaster[비가동 항목 관리].Designer.cs">
+      <DependentUpon>BM_StopListMaster[비가동 항목 관리].cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM_CustMaster[거래처마스터].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM_CustMaster[거래처마스터].Designer.cs">
+      <DependentUpon>BM_CustMaster[거래처마스터].cs</DependentUpon>
+    </Compile>
+    <Compile Include="BM_WorkerMaster[작업자마스터].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BM_WorkerMaster[작업자마스터].Designer.cs">
+      <DependentUpon>BM_WorkerMaster[작업자마스터].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_Repair[설비보전 통합관리].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_Repair[설비보전 통합관리].designer.cs">
+      <DependentUpon>PP_Repair[설비보전 통합관리].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_ActureOutput[생산 실적 등록].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_ActureOutput[생산 실적 등록].designer.cs">
+      <DependentUpon>PP_ActureOutput[생산 실적 등록].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_LotTracking[LOT 트래킹].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_LotTracking[LOT 트래킹].designer.cs">
+      <DependentUpon>PP_LotTracking[LOT 트래킹].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_WCStatus[고장 및 수리 현황].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_WCStatus[고장 및 수리 현황].designer.cs">
+      <DependentUpon>PP_WCStatus[고장 및 수리 현황].cs</DependentUpon>
+    </Compile>
+    <Compile Include="WM_StockOutWM[제품출고 등록].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WM_StockOutWM[제품출고 등록].designer.cs">
+      <DependentUpon>WM_StockOutWM[제품출고 등록].cs</DependentUpon>
+    </Compile>
+    <Compile Include="WM_StockShip[ 제품재고 상차 등록].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WM_StockShip[ 제품재고 상차 등록].designer.cs">
+      <DependentUpon>WM_StockShip[ 제품재고 상차 등록].cs</DependentUpon>
+    </Compile>
+    <Compile Include="WM_StockWMrec[제품 재고 입출 이력].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WM_StockWMrec[제품 재고 입출 이력].designer.cs">
+      <DependentUpon>WM_StockWMrec[제품 재고 입출 이력].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_StockHALBRec[재공 재고 입출 이력].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_StockHALBRec[재공 재고 입출 이력].designer.cs">
+      <DependentUpon>PP_StockHALBRec[재공 재고 입출 이력].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_STockHALB[재공 재고조회].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_STockHALB[재공 재고조회].designer.cs">
+      <DependentUpon>PP_STockHALB[재공 재고조회].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_WCRunStopList[작업장 비가동 현황 및 사유관리].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_WCRunStopList[작업장 비가동 현황 및 사유관리].designer.cs">
+      <DependentUpon>PP_WCRunStopList[작업장 비가동 현황 및 사유관리].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_StockPPRec[공정 창고 입출고 이력 관리].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_StockPPRec[공정 창고 입출고 이력 관리].designer.cs">
+      <DependentUpon>PP_StockPPRec[공정 창고 입출고 이력 관리].cs</DependentUpon>
+    </Compile>
+    <Compile Include="MM_StockMMRec[자재 입출고 이력 관리].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MM_StockMMRec[자재 입출고 이력 관리].designer.cs">
+      <DependentUpon>MM_StockMMRec[자재 입출고 이력 관리].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_StockPP[공정 창고 재고 조회].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_StockPP[공정 창고 재고 조회].designer.cs">
+      <DependentUpon>PP_StockPP[공정 창고 재고 조회].cs</DependentUpon>
+    </Compile>
+    <Compile Include="MM_StockMM[자재 재고 현황].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MM_StockMM[자재 재고 현황].designer.cs">
+      <DependentUpon>MM_StockMM[자재 재고 현황].cs</DependentUpon>
+    </Compile>
+    <Compile Include="MM_StockOut[자재 출고 등록].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MM_StockOut[자재 출고 등록].designer.cs">
+      <DependentUpon>MM_StockOut[자재 출고 등록].cs</DependentUpon>
+    </Compile>
+    <Compile Include="PP_WorkerPerProd[작업자 일별 생산 실적].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PP_WorkerPerProd[작업자 일별 생산 실적].designer.cs">
+      <DependentUpon>PP_WorkerPerProd[작업자 일별 생산 실적].cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="WM_ProdInStock[제품창고 입고].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WM_ProdInStock[제품창고 입고].designer.cs">
+      <DependentUpon>WM_ProdInStock[제품창고 입고].cs</DependentUpon>
+    </Compile>
+    <Compile Include="WM_TradingManager[제품출고 이력 및 거래명세서 발행].cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WM_TradingManager[제품출고 이력 및 거래명세서 발행].designer.cs">
+      <DependentUpon>WM_TradingManager[제품출고 이력 및 거래명세서 발행].cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="DC00_assm">
+      <HintPath>..\KFQS_MES_2022\bin\Debug\DC00_assm.dll</HintPath>
+    </Reference>
+    <Reference Include="DC00_Component">
+      <HintPath>..\KFQS_MES_2022\bin\Debug\DC00_Component.dll</HintPath>
+    </Reference>
+    <Reference Include="DC00_Frame">
+      <HintPath>..\KFQS_MES_2022\bin\Debug\DC00_Frame.dll</HintPath>
+    </Reference>
+    <Reference Include="DC00_PuMan">
+      <HintPath>..\KFQS_MES_2022\bin\Debug\DC00_PuMan.dll</HintPath>
+    </Reference>
+    <Reference Include="DC00_System">
+      <HintPath>..\KFQS_MES_2022\bin\Debug\DC00_System.dll</HintPath>
+    </Reference>
+    <Reference Include="DC00_WinForm, Version=1.0.0.2, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\MES\MES_EDU_SH\DC_POPUP\bin\Debug\DC00_WinForm.dll</HintPath>
+    </Reference>
+    <Reference Include="DC_POPUP, Version=1.0.0.5, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\MES\MES_EDU_SH\DC_POPUP\bin\Debug\DC_POPUP.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Documents.Excel.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Documents.Excel.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Shared.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Shared.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.Misc.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Win.Misc.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinEditors.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Win.UltraWinEditors.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Win.UltraWinGrid.ExcelExport.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinGrid.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Win.UltraWinGrid.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinSchedule.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Win.UltraWinSchedule.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinTabControl.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Win.UltraWinTabControl.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.UltraWinToolbars.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Win.UltraWinToolbars.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Infragistics2.Win.v11.1, Version=11.1.20111.2071, Culture=neutral, PublicKeyToken=7dd5c3163f2cd0cb, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\KFQS_MES_2022\DLL\Infragistics2.Win.v11.1.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="Telerik.Reporting, Version=7.2.13.1105, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DC_CG\DLL\Telerik.Reporting.dll</HintPath>
+    </Reference>
+    <Reference Include="Telerik.ReportViewer.WinForms, Version=7.2.13.1105, Culture=neutral, PublicKeyToken=a9d7983dfcc261be, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\DC_CG\DLL\Telerik.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AP_OrderPerProduct[작업지시 별 생산 실적및 달성율].resx">
+      <DependentUpon>AP_OrderPerProduct[작업지시 별 생산 실적및 달성율].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MM_POmake[자재 발주 및 입고].resx">
+      <DependentUpon>MM_POmake[자재 발주 및 입고].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AP_ProductPlan[생산계획 편성 및 작업지시 확정].resx">
+      <DependentUpon>AP_ProductPlan[생산계획 편성 및 작업지시 확정].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM_StopListMaster[비가동 항목 관리].resx">
+      <DependentUpon>BM_StopListMaster[비가동 항목 관리].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM_CustMaster[거래처마스터].resx">
+      <DependentUpon>BM_CustMaster[거래처마스터].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BM_WorkerMaster[작업자마스터].resx">
+      <DependentUpon>BM_WorkerMaster[작업자마스터].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_Repair[설비보전 통합관리].resx">
+      <DependentUpon>PP_Repair[설비보전 통합관리].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_ActureOutput[생산 실적 등록].resx">
+      <DependentUpon>PP_ActureOutput[생산 실적 등록].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_LotTracking[LOT 트래킹].resx">
+      <DependentUpon>PP_LotTracking[LOT 트래킹].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_WCStatus[고장 및 수리 현황].resx">
+      <DependentUpon>PP_WCStatus[고장 및 수리 현황].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WM_StockOutWM[제품출고 등록].resx">
+      <DependentUpon>WM_StockOutWM[제품출고 등록].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WM_StockShip[ 제품재고 상차 등록].resx">
+      <DependentUpon>WM_StockShip[ 제품재고 상차 등록].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WM_StockWMrec[제품 재고 입출 이력].resx">
+      <DependentUpon>WM_StockWMrec[제품 재고 입출 이력].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_StockHALBRec[재공 재고 입출 이력].resx">
+      <DependentUpon>PP_StockHALBRec[재공 재고 입출 이력].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_STockHALB[재공 재고조회].resx">
+      <DependentUpon>PP_STockHALB[재공 재고조회].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_WCRunStopList[작업장 비가동 현황 및 사유관리].resx">
+      <DependentUpon>PP_WCRunStopList[작업장 비가동 현황 및 사유관리].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_StockPPRec[공정 창고 입출고 이력 관리].resx">
+      <DependentUpon>PP_StockPPRec[공정 창고 입출고 이력 관리].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MM_StockMMRec[자재 입출고 이력 관리].resx">
+      <DependentUpon>MM_StockMMRec[자재 입출고 이력 관리].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_StockPP[공정 창고 재고 조회].resx">
+      <DependentUpon>PP_StockPP[공정 창고 재고 조회].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MM_StockMM[자재 재고 현황].resx">
+      <DependentUpon>MM_StockMM[자재 재고 현황].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MM_StockOut[자재 출고 등록].resx">
+      <DependentUpon>MM_StockOut[자재 출고 등록].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PP_WorkerPerProd[작업자 일별 생산 실적].resx">
+      <DependentUpon>PP_WorkerPerProd[작업자 일별 생산 실적].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WM_ProdInStock[제품창고 입고].resx">
+      <DependentUpon>WM_ProdInStock[제품창고 입고].cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WM_TradingManager[제품출고 이력 및 거래명세서 발행].resx">
+      <DependentUpon>WM_TradingManager[제품출고 이력 및 거래명세서 발행].cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
